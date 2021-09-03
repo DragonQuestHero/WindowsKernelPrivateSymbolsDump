@@ -4,9 +4,9 @@
 
 #### 列如_DEBUG_OBJECT结构 该结构在windows公有符号中无法搜索
 
-<h1 align="center">
+
 	<img src="1.png" >
-</h1>
+
 
 #### 而实际上 该结构在win7 7600中为
 
