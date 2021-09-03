@@ -10,6 +10,7 @@
 
 #### 而实际上 该结构在win7 7600中为
 
+```cpp
 typedef struct _DEBUG_OBJECT
 {
 	/* 0x0000 */ struct _KEVENT EventsPresent;
@@ -18,11 +19,12 @@ typedef struct _DEBUG_OBJECT
 	/* 0x0060 */ unsigned long Flags;
 	/* 0x0064 */ long __PADDING__[1];
 } DEBUG_OBJECT, *PDEBUG_OBJECT; /* size: 0x0068 */
+```
 
 #### 使用windbg加载私有符号进行验证
 
 <h1 align="center">
-	<img src="1.png" >
+	<img src="2.png" >
 	<br>
 	<br>
 </h1>
