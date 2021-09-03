@@ -60,3 +60,20 @@ typedef struct _DEBUG_OBJECT
 #### 如需其他内核驱动模块转储请留言
 
 #### If you need to dump other kernel driver modules, please leave a message
+
+
+## 欢迎加入古典文学社(群名经常换不要在意 
+
+### 行业交流 职位内推 资源共享 情报互换
+
+### 当前群成员90人左右 国内大厂全覆盖 8成以上均为安全岗在职(逆向 内核 渗透 工作经验从0到20年以上均有
+
+### 邀请制+审核制进群(群成员邀请是最方便的进群方式 渗透岗只接受部分群成员邀请进群
+
+<h1 align="center">
+	<img src="123.JPG" >
+	<br>
+	<br>
+</h1>
+
+##### 加入微信群需先加入QQ群
